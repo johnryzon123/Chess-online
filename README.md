@@ -1,5 +1,4 @@
 ## Chess-online
-this is just a simple chess game I will update it soon.
 
-- *I needed to make a **check detector***
-- *I needed to make a **checkmate detector** and more*
+- *Chess is a ***two-player abstract strategy board game*** played on a checkered board with 64 squares*
+- *where the goal is to **checkmate the opponent's king** by moving different types of pieces according to specific rules.*
