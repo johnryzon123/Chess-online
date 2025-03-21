@@ -10,5 +10,5 @@ function playb() {
 }
 
 // Attach the functions to button click events
-document.getElementById('chessf').addEventListener('click', playf);
-document.getElementById('chessb').addEventListener('click', playb);
+document.getElementById('playf').addEventListener('click', playf);
+document.getElementById('playb').addEventListener('click', playb);
